@@ -14,8 +14,7 @@
     "declaration": true,
     "outDir": "./dist",
     "jsx": "preserve",
-    "baseUrl": "./",
-    "isolatedModules": true
+    "baseUrl": "./"
   },
   "include": ["src"]
 }

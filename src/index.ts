@@ -1,4 +1,3 @@
-import type { RsbuildPluginAPI as Foo } from 'my-kit';
-import type { RsbuildPluginAPI as Bar } from 'my-kit/plugin';
+import type { Api } from './types';
 
-export type { Foo, Bar };
+export type { Api };
