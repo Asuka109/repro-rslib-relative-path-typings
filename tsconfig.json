@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "lib": ["DOM", "ESNext"],
+    "allowJs": true,
+    "module": "Preserve",
+    "moduleResolution": "Bundler",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "experimentalDecorators": true,
+    "resolveJsonModule": true,
+    "target": "ES2019",
+    "declaration": true,
+    "outDir": "./dist",
+    "jsx": "preserve",
+    "baseUrl": "./",
+    "isolatedModules": true
+  },
+  "include": ["src"]
+}
